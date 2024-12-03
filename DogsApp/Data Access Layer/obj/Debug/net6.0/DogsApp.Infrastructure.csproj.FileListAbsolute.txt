@@ -1,0 +1,28 @@
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\New folder\.git\DogProject\DogsApp\Data Access Layer\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\David H 12Б\VisualStudio\DogsApp\Data Access Layer\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
